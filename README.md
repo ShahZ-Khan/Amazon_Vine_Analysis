@@ -13,4 +13,4 @@ Summary
  
 After completing the analysis, Vine members did not seem to be bias when it comes to rating their products. This is because the number of 5-star ratings was about less than Non-Vine members. we can conclude that Vine customers value their review and are honest when giving feedback. Analyzing the data privdes us more insights which supports our assumption and predictions.
 
-![](https://github.com/ShahZ-Khan/Amazon_Vine_Analysis/blob/main/images/Screenshot%202023-03-07%20at%2012.23.21%20AM.png)
+
